@@ -1,4 +1,4 @@
-import { defaultsDeep } from "lodash";
+import defaultsDeep from "lodash/defaultsDeep";
 import { reactive, watch } from "vue";
 import { DefineScript } from "../core/define.script";
 import { OCSLocalStorage } from "../core/store";

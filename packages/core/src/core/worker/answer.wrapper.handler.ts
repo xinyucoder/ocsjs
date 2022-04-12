@@ -1,4 +1,4 @@
-import { get } from "lodash";
+import get from "lodash/get";
 import { getItem } from "../store";
 
 /** 题库查询结果 */
